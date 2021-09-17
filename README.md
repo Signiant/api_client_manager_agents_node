@@ -1,4 +1,4 @@
-# manageragents_api
+# Manager+Agents API
 
 ManageragentsApi - JavaScript client for manageragents_api
 Signiant Manager+Agents provides a REST API to automate user management, user group, agent groups, jobs, resource controls, and job groups. 
