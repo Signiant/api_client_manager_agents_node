@@ -1,0 +1,22 @@
+{
+  "name": "manageragents_api",
+  "version": "14.1.0",
+  "description": "Signiant_ManagerAgents_provides_a_REST_API_to_automate_user_management_user_group_agent_groups_jobs_resource_controls_and_job_groups_",
+  "license": "Unlicense",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "browser": {
+    "fs": false
+  },
+  "dependencies": {
+    "superagent": "3.7.0",
+    "querystring": "0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "sinon": "1.17.3",
+    "expect.js": "~0.3.1"
+  }
+}
